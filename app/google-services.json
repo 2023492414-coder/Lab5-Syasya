@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "896847921999",
+    "firebase_url": "https://lab4-juliana-oct2025-20a75-default-rtdb.firebaseio.com",
+    "project_id": "lab4-juliana-oct2025-20a75",
+    "storage_bucket": "lab4-juliana-oct2025-20a75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896847921999:android:e70a3a43c9bbfd8415fb3a",
+        "android_client_info": {
+          "package_name": "com.example.lab4_juliana_oct2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJP7CJs8ZYtPVea2_wUVXNJCGwWS0Cs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896847921999:android:a4cd5191e945287715fb3a",
+        "android_client_info": {
+          "package_name": "com.example.lab5_juliana_oct25a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJP7CJs8ZYtPVea2_wUVXNJCGwWS0Cs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
