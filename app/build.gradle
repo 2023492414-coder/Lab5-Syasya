@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.lab5_juliana_oct25a'
+    namespace 'com.example.lab5_Syasya'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.example.lab5_juliana_oct25a"
+        applicationId "com.example.lab5_Syasya"
         minSdk 24
         targetSdk 35
         versionCode 1

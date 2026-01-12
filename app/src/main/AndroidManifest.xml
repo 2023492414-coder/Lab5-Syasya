@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/uitm"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Lab5julianaoct25a"
+        android:theme="@style/Theme.lab5_Syasya"
         tools:targetApi="31">
         <activity
             android:name=".SplashActivity"

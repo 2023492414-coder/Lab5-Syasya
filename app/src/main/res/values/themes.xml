@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Lab5julianaoct25a" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.lab5_Syasya" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Lab5julianaoct25a" parent="Base.Theme.Lab5julianaoct25a" />
+    <style name="Theme.lab5_Syasya" parent="Base.Theme.lab5_Syasya" />
 </resources>

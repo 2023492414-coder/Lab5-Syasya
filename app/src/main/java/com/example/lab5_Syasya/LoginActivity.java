@@ -1,4 +1,4 @@
-package com.example.lab5_juliana_oct25a;
+package com.example.lab5_Syasya;
 
 import android.content.Intent;
 import android.os.Bundle;

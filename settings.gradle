@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "lab5-juliana-oct25a"
+rootProject.name = "lab5_Syasya"
 include ':app'
